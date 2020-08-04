@@ -1,9 +1,20 @@
 # Budget Tracker App
 
-## Description
+## Developed by
+``
+Ikenna Nwajagu
+``
 
-This is a simple application tracks a user's income and expense. This application uses no frameworks or libraries, just plain Vanilla JavaScript. 
+### Description
 
-## Live Site
+This is a simple application tracks a user's income and expense. This application uses no frameworks or libraries; just plain Vanilla JavaScript. 
 
-Check out this application: https://sochikenny.github.io/Budget-Tracker/
+### Live Site
+
+Check out this application <a href= "https://sochikenny.github.io/Budget-Tracker/"> here </a>
+
+### Technologies Used
+
+- JavaScript(No frameworks or libraries)
+- HTML
+- CSS
